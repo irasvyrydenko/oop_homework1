@@ -1,5 +1,4 @@
 package ua.edu.ucu.tempseries;
-
 import org.junit.Test;
 import ua.edu.ucu.apps.tempseries.TemperatureSeriesAnalysis;
 import ua.edu.ucu.apps.tempseries.TempSummaryStatistics;
