@@ -5,7 +5,6 @@ import ua.edu.ucu.apps.tempseries.TemperatureSeriesAnalysis;
 import ua.edu.ucu.apps.tempseries.TempSummaryStatistics;
 
 import java.util.InputMismatchException;
-
 import static org.junit.Assert.*;
 
 public class TemperatureSeriesAnalysisTest {
