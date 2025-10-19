@@ -1,4 +1,5 @@
 package ua.edu.ucu.apps.tempseries;
+
 public class TempSummaryStatistics {
     private final double avgTemp;
     private final double devTemp;
