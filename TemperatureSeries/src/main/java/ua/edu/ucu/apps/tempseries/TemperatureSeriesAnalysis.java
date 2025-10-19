@@ -26,9 +26,7 @@ public class TemperatureSeriesAnalysis {
             throw new IllegalArgumentException("Temperature series is empty");
         }
         double sum = 0.0;
-        for (double t : temperatureSeries) {
-            sum += t;
-        }
+        for (double t : temperatureSeries) {sum += t;}
         return sum / size;
     }
 
